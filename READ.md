@@ -1,4 +1,4 @@
-# Monitor 
+# The Observer 
 
 ## Overview
 **Monitor ** It is a tool used as a command-line utility written in C and designed for Linux systems.
