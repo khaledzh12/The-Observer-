@@ -1,7 +1,7 @@
 # The Observer 
 
 ## Overview
-**Monitor ** It is a tool used as a command-line utility written in C and designed for Linux systems.
+The Observer  It is a tool used as a command-line utility written in C and designed for Linux systems.
 
 Tool Functionality: The tool scans the network to detect local devices, displays IP and MAC addresses, checks a small 
 set of ports, monitors and configures specific devices and TTL values, and tracks sent and lost packets as well as the number of errors.
